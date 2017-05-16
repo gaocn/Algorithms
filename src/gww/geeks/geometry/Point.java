@@ -6,8 +6,8 @@ import java.util.Comparator;
  * Created by 高文文 on 2017/5/10.
  */
 public class Point implements Comparator<Point>{
-    float x, y;
-    public Point(float x, float y) {
+    double x, y;
+    public Point(double x, double y) {
         this.x = x;
         this.y = y;
     }
