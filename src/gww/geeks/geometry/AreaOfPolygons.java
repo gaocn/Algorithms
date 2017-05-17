@@ -18,7 +18,7 @@ public class AreaOfPolygons {
      *          = 0 for p3 on the line
      *          < 0 for p3 right of the line
      */
-    public float isLeft(Point p1, Point p2, Point p3) {
+    public double isLeft(Point p1, Point p2, Point p3) {
         return (p2.x - p1.x) * (p3.y - p1.y) - (p3.x - p1.x) * (p2.y - p1.y);
     }
 
@@ -30,7 +30,7 @@ public class AreaOfPolygons {
      *          = 0 for none(degenerate)
      *          < 0 for clockwise
      */
-    public float orientation2DTriangle(Point p1, Point p2, Point p3) {
+    public double orientation2DTriangle(Point p1, Point p2, Point p3) {
         return isLeft(p1, p2, p3);
     }
 
@@ -38,7 +38,7 @@ public class AreaOfPolygons {
      *  compute the area of a 2D triangle
      * @return the float area of triangle
      */
-    public float area2DTriangle(Point p1, Point p2, Point p3) {
+    public double area2DTriangle(Point p1, Point p2, Point p3) {
         return isLeft(p1, p2, p3) / 2.0f;
     }
 
@@ -52,12 +52,12 @@ public class AreaOfPolygons {
      *          < 0 for clockwise
      * Note: this algorithm is faster than computing the signed area like {orientation2DTriangle}
      */
-    public float orientation2DPolygon(Point[] points) {
+    public double orientation2DPolygon(Point[] points) {
 
         //1. first find rightmost lowest point of then polygon
         int   rlPointIdx = 0;
-        float xmin = points[rlPointIdx].x;
-        float ymin = points[rlPointIdx].y;
+        double xmin = points[rlPointIdx].x;
+        double ymin = points[rlPointIdx].y;
 
         for(int i = 1; i < points.length; i++) {
             if(points[i].y > ymin) continue;
