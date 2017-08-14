@@ -80,7 +80,8 @@ public class AreaOfPolygons {
      * compute the area of a 2D Polygon
      *  1. areaT = sum{area{PViVi+1}}  i = [0, n-1]  when P=(0,0)
      *  2. area{PViVi+1} = 1/2 * [xi * yi+1 - yi * xi+1]
-     *
+     *  1. 顶点顺序若是按照逆时针方向，结果为正；
+     *  2. 若是按照顺时针方向，结果为负；
      * @param points an array of n+1 vertices with point[n] = point[0]
      * @return
      */

@@ -43,7 +43,7 @@ public class ConsistentHashWithVirtualNode<T> {
     public void add(T node) {
         for(int i = 0; i < numberOfReplicas; i++) {
             for(int j = 0; j < VIRTUAL_NODES; j++) {
-                String virtualNodeName = node.toString() + "&&VN" + String.valueOf(j);
+                String virtualNodeName = node.toString() + "&&VN" + String.valueOf(i) + String.valueOf(j);
                 int hash = hashFunction.hash(virtualNodeName);
                 System.out.println(virtualNodeName + "  [" + node + "]加入集合中, 其Hash值为" + hash);
                 virtualNodes.put(hash, (T)virtualNodeName);
@@ -54,7 +54,7 @@ public class ConsistentHashWithVirtualNode<T> {
     public void remove(T node) {
         for(int i = 0; i < numberOfReplicas; i++) {
             for(int j = 0; j < VIRTUAL_NODES; j++) {
-                String virtualNodeName = node.toString() + "&&VN" + String.valueOf(j);
+                String virtualNodeName = node.toString() + "&&VN" + String.valueOf(i) + String.valueOf(j);
                 int hash = hashFunction.hash(virtualNodeName);
                 System.out.println(virtualNodeName + "  [" + node + "]移除集合中, 其Hash值为" + hash);
                 virtualNodes.remove(hash);

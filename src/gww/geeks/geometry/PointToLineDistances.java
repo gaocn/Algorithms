@@ -3,7 +3,7 @@ package gww.geeks.geometry;
 /**
  * Created by 高文文 on 2017/5/11.
  */
-public class LinesDistances {
+public class PointToLineDistances {
 
     public static void main(String[] args) {
 

@@ -116,4 +116,13 @@ interface HashFunction {
         hash = hash < 0 ? Math.abs(hash) : hash;
         return hash;
     }
+
+    /**
+     * hash function有两类：
+     *   1. to disperse data points uniformly into n bits.
+     *   2. to securely identify the input data.
+     *   FNV SHA-1 or AES
+     *   http://isthe.com/chongo/tech/comp/fnv/
+     *   http://www.larc.usp.br/~pbarreto/hflounge.html
+     */
 }
