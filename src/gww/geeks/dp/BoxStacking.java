@@ -23,7 +23,5 @@ public class BoxStacking {
             设置H(j)为第j个箱子在栈顶时的栈的最高高度，则有递推公式：
                 H(j) = max{H(i)} + hj if i < j  O(N^2)
              则最终解为：max{H(j)} 因为不确定那个类型的箱子在最上面时得到的栈的高度最高。
-
-
      */
 }
