@@ -27,23 +27,7 @@ public class LongestIncreasingSubsequence {
     public static void main(String[] args) {
         LongestIncreasingSubsequence alg = new LongestIncreasingSubsequence();
         int[] A = new int[] {2,3,-1};
-        alg.LIS(A, A.length);
-        System.out.println("maxLen: " + maxLen);
     }
 
-    static int maxLen;
-    public int LIS(int[] A, int end) {
-        if(end == 1) return 1;
 
-        int maxEnding = 1;
-        int tmpLen;
-
-        for(int i = 1; i < end; i++) {
-            tmpLen = LIS(A, i);
-            if(A[i - 1] < A[end - 1]);
-                maxEnding = Math.max(maxEnding, tmpLen + 1);
-        }
-        maxLen = Math.max(maxLen, maxEnding);
-        return maxEnding;
-    }
 }
