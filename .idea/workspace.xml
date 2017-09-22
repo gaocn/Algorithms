@@ -2,61 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d8ee6c-fd91-4985-97ba-21f04ca42029" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/es/filtercache/BitDocIdSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/es/filtercache/Bits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/es/filtercache/DocIdSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/es/filtercache/DocIdSetIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/es/filtercache/IntArrayDocIdSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/es/filtercache/RoaringDocIdSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/dp/BoxStacking.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/dp/LongestIncreasingSubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/dp/MakingChange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/dp/MaxValueContigunousSubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/geometry/BoundingContainer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/geometry/LinePlaneIntersection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/geometry/LineToLineDistance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/geometry/RayTriangleIntersection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/plane/intersect/MostDistanceFromSea.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nutshell/geometry/GrometryAlg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol11/AdventuresInMoving_IV.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol11/Chopsticks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol11/CuttingSticks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol11/DistinctSubSequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol11/FerryLoading.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol11/IsBiggerSmarter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol11/UnidirectionalTSP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol11/WeightsMeasures.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol13/BirthdayCake.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol13/ChocolateChipCookies.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol13/DogGopher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol13/HowBigIsIt.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol13/IsThisIntegration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol13/LargestSmallestBox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol13/RopeCrisis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol13/RoundTableKnights.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol14/ChainsawMassacre.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol14/ClosestPairProblem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol14/HerdingFrosh.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol14/HotterColder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol14/NiceMilk.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol14/RadarTracking.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol14/TilePacker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol14/TreesOnIsland.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeks/nutshell/chapter4/Alg1.class" afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/nutshell/chapter4/Alg1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeks/pm/pc/vol1/Alg103.class" afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/pm/pc/vol1/Alg103.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeks/uva/volumn1/Alg101.class" afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/uva/volumn1/Alg101.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/dp/CountingBooleanParenthesization.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/dp/OptimalStrategyForAAGame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/graph/mst/Prime.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/graph/tarjan/ArticulationPoints.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/graph/tarjan/BiconnectedComponent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/graph/tarjan/Bridges.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gww/geeks/graph/tarjan/Tarjan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol10/TourisGuide.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pm/pc/vol10/War.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeeksForGeeks.iml" afterPath="$PROJECT_DIR$/GeeksForGeeks.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gww/geeks/geometry/AreaOfPolygons.java" afterPath="$PROJECT_DIR$/src/gww/geeks/geometry/AreaOfPolygons.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gww/geeks/hash/ConsistentHash.java" afterPath="$PROJECT_DIR$/src/gww/geeks/hash/ConsistentHash.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gww/geeks/hash/ConsistentHashWithVirtualNode.java" afterPath="$PROJECT_DIR$/src/gww/geeks/hash/ConsistentHashWithVirtualNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nutshell/chapter5/RBTree.java" afterPath="$PROJECT_DIR$/src/nutshell/chapter5/RBTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nutshell/chapter7/SearchTree.java" afterPath="$PROJECT_DIR$/src/nutshell/chapter7/SearchTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/gww/geeks/geometry/LinesDistances.java" afterPath="$PROJECT_DIR$/src/gww/geeks/geometry/PointToLineDistances.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/nutshell/chapter8/NetworkFlow.java" afterPath="$PROJECT_DIR$/src/nutshell/chapter8/NetworkFlowProblem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gww/geeks/dp/IntegerKnapsack.java" afterPath="$PROJECT_DIR$/src/gww/geeks/dp/IntegerKnapsack.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nutshell/chapter6/GraphAlg.java" afterPath="$PROJECT_DIR$/src/nutshell/chapter6/GraphAlg.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pm/pc/vol10/Railroads.java" afterPath="$PROJECT_DIR$/src/pm/pc/vol10/Railroads.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/" />
@@ -84,11 +43,81 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BoxStacking.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/gww/geeks/dp/BoxStacking.java">
+      <file leaf-file-name="War.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pm/pc/vol10/War.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="286">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TourisGuide.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pm/pc/vol10/TourisGuide.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GraphAlg.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nutshell/chapter6/GraphAlg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding>
+                <element signature="method#main#0;class#GraphAlg#0" expanded="false" />
+                <element signature="class#EdgeLable#0;class#GraphAlg#0" expanded="false" />
+                <element signature="class#Counter#0;class#GraphAlg#0" expanded="false" />
+                <element signature="e#1766#1767#0" expanded="true" />
+                <element signature="e#1812#1813#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tarjan.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gww/geeks/graph/tarjan/Tarjan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#Graph#0" expanded="false" />
+                <element signature="method#Graph#0;class#Graph#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArticulationPoints.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gww/geeks/graph/tarjan/ArticulationPoints.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bridges.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gww/geeks/graph/tarjan/Bridges.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BiconnectedComponent.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gww/geeks/graph/tarjan/BiconnectedComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -118,26 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/gww/geeks/geometry/PointToLineDistances.java" />
-        <option value="$PROJECT_DIR$/src/gww/geeks/geometry/Point.java" />
-        <option value="$PROJECT_DIR$/src/gww/geeks/geometry/LineToLineDistance.java" />
-        <option value="$PROJECT_DIR$/src/gww/geeks/geometry/BoundingContainer.java" />
-        <option value="$PROJECT_DIR$/src/pm/pc/vol13/DogGopher.java" />
-        <option value="$PROJECT_DIR$/src/pm/pc/vol13/RopeCrisis.java" />
-        <option value="$PROJECT_DIR$/src/pm/pc/vol13/RoundTableKnights.java" />
-        <option value="$PROJECT_DIR$/src/pm/pc/vol13/ChocolateChipCookies.java" />
-        <option value="$PROJECT_DIR$/src/pm/pc/vol13/BirthdayCake.java" />
-        <option value="$PROJECT_DIR$/src/pm/pc/vol13/LargestSmallestBox.java" />
-        <option value="$PROJECT_DIR$/src/pm/pc/vol13/IsThisIntegration.java" />
-        <option value="$PROJECT_DIR$/src/pm/pc/vol13/HowBigIsIt.java" />
-        <option value="$PROJECT_DIR$/src/pm/pc/vol14/HerdingFrosh.java" />
-        <option value="$PROJECT_DIR$/src/pm/pc/vol14/CloestPairProblem.java" />
-        <option value="$PROJECT_DIR$/src/nutshell/geometry/GrometryAlg.java" />
-        <option value="$PROJECT_DIR$/src/pm/pc/vol14/ChainsawMassacre.java" />
-        <option value="$PROJECT_DIR$/src/pm/pc/vol14/ClosestPairProblem.java" />
-        <option value="$PROJECT_DIR$/src/gww/geeks/geometry/LinePlaneIntersection.java" />
-        <option value="$PROJECT_DIR$/src/pm/pc/vol14/HotterColderTest.java" />
-        <option value="$PROJECT_DIR$/src/gww/geeks/geometry/AreaOfPolygons.java" />
         <option value="$PROJECT_DIR$/src/es/filtercache/DocIdSetIterator.java" />
         <option value="$PROJECT_DIR$/src/es/filtercache/RoaringDocIdSet.java" />
         <option value="$PROJECT_DIR$/src/es/filtercache/BitDocIdSet.java" />
@@ -166,9 +175,29 @@
         <option value="$PROJECT_DIR$/src/uva/volumn1/Alg101.java" />
         <option value="$PROJECT_DIR$/src/uva/volumn1/Alg102.java" />
         <option value="$PROJECT_DIR$/src/uva/volumn1/Alg103.java" />
-        <option value="$PROJECT_DIR$/src/gww/geeks/dp/LongestIncreasingSubsequence.java" />
         <option value="$PROJECT_DIR$/src/gww/geeks/dp/MakingChange.java" />
+        <option value="$PROJECT_DIR$/src/gww/geeks/dp/LongestIncreasingSubsequence.java" />
         <option value="$PROJECT_DIR$/src/gww/geeks/dp/BoxStacking.java" />
+        <option value="$PROJECT_DIR$/src/gww/geeks/dp/BuildingBridge.java" />
+        <option value="$PROJECT_DIR$/src/gww/geeks/dp/BalancedPartition.java" />
+        <option value="$PROJECT_DIR$/src/gww/geeks/dp/EditDistance.java" />
+        <option value="$PROJECT_DIR$/src/gww/geeks/dp/CountingBooleanParenthesization.java" />
+        <option value="$PROJECT_DIR$/src/gww/geeks/dp/OptimalStrategyForAAGame.java" />
+        <option value="$PROJECT_DIR$/src/gww/geeks/dp/IntegerKnapsack.java" />
+        <option value="$PROJECT_DIR$/src/gww/geeks/graph/mst/Prime.java" />
+        <option value="$PROJECT_DIR$/src/pm/pc/vol11/vol10/Freckles.java" />
+        <option value="$PROJECT_DIR$/src/pm/pc/vol10/Freckles.java" />
+        <option value="$PROJECT_DIR$/src/pm/pc/vol10/TheNecklace.java" />
+        <option value="$PROJECT_DIR$/src/pm/pc/vol10/FireStation.java" />
+        <option value="$PROJECT_DIR$/src/pm/pc/vol10/Railroads.java" />
+        <option value="$PROJECT_DIR$/src/pm/pc/vol10/War.java" />
+        <option value="$PROJECT_DIR$/src/nutshell/chapter6/GraphAlg.java" />
+        <option value="$PROJECT_DIR$/src/gww/geeks/graph/tarjan.java" />
+        <option value="$PROJECT_DIR$/src/pm/pc/vol10/TourisGuide.java" />
+        <option value="$PROJECT_DIR$/src/gww/geeks/graph/tarjan/Tarjan.java" />
+        <option value="$PROJECT_DIR$/src/gww/geeks/graph/tarjan/BiconnectedComponent.java" />
+        <option value="$PROJECT_DIR$/src/gww/geeks/graph/tarjan/ArticulationPoints.java" />
+        <option value="$PROJECT_DIR$/src/gww/geeks/graph/tarjan/Bridges.java" />
       </list>
     </option>
   </component>
@@ -338,8 +367,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -364,7 +391,43 @@
               <item name="GeeksForGeeks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="geeks" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GeeksForGeeks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GeeksForGeeks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="geeks" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="mst" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GeeksForGeeks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GeeksForGeeks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="geeks" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="tarjan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GeeksForGeeks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GeeksForGeeks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nutshell" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GeeksForGeeks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GeeksForGeeks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nutshell" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GeeksForGeeks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GeeksForGeeks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nutshell" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GeeksForGeeks" type="b2602c69:ProjectViewProjectNode" />
@@ -377,13 +440,15 @@
               <item name="GeeksForGeeks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pc" type="462c0819:PsiDirectoryNode" />
-              <item name="vol11" type="462c0819:PsiDirectoryNode" />
+              <item name="vol10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1077,7 +1142,37 @@
       <workItem from="1502181902427" duration="479000" />
       <workItem from="1502235795393" duration="4603000" />
       <workItem from="1502322272424" duration="5211000" />
-      <workItem from="1502667883080" duration="4594000" />
+      <workItem from="1502667883080" duration="7245000" />
+      <workItem from="1502839876396" duration="5339000" />
+      <workItem from="1502928497996" duration="2219000" />
+      <workItem from="1503013973191" duration="403000" />
+      <workItem from="1503014542835" duration="3467000" />
+      <workItem from="1503272081660" duration="4345000" />
+      <workItem from="1503359484141" duration="1649000" />
+      <workItem from="1503445683736" duration="4194000" />
+      <workItem from="1503530918837" duration="1452000" />
+      <workItem from="1503548258265" duration="1196000" />
+      <workItem from="1503617190586" duration="2288000" />
+      <workItem from="1503877573624" duration="5986000" />
+      <workItem from="1504136189764" duration="640000" />
+      <workItem from="1504137768932" duration="2108000" />
+      <workItem from="1504223215009" duration="2477000" />
+      <workItem from="1504483071832" duration="2362000" />
+      <workItem from="1504503519709" duration="1291000" />
+      <workItem from="1504568909525" duration="3125000" />
+      <workItem from="1504741795987" duration="2924000" />
+      <workItem from="1504828008852" duration="1490000" />
+      <workItem from="1505087604050" duration="6692000" />
+      <workItem from="1505174556174" duration="1283000" />
+      <workItem from="1505261601064" duration="1481000" />
+      <workItem from="1505347162328" duration="1655000" />
+      <workItem from="1505433362088" duration="3665000" />
+      <workItem from="1505692215626" duration="90000" />
+      <workItem from="1505692615962" duration="6722000" />
+      <workItem from="1505865366156" duration="12693000" />
+      <workItem from="1505889167647" duration="437000" />
+      <workItem from="1505950355438" duration="10677000" />
+      <workItem from="1506071364951" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="一致性哈希算法实现&#10;缺点：在请求不是均匀分布时，单个服务器负载容易过大">
       <created>1492558164513</created>
@@ -1135,7 +1230,42 @@
       <option name="project" value="LOCAL" />
       <updated>1495410227198</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="添加集合、动态规划相关题目">
+      <created>1502753500782</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1502753500782</updated>
+    </task>
+    <task id="LOCAL-00010" summary="添加集合、动态规划相关题目">
+      <created>1502757781367</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1502757781367</updated>
+    </task>
+    <task id="LOCAL-00011" summary="BoxStacking 解决方案">
+      <created>1502841598669</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1502841598669</updated>
+    </task>
+    <task id="LOCAL-00012" summary="BalancedPartition&#10;EditDistance">
+      <created>1503445867164</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1503445867164</updated>
+    </task>
+    <task id="LOCAL-00013" summary="图算法">
+      <created>1505692963616</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1505692963616</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1171,7 +1301,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227490000" />
+    <option name="totallyTimeSpent" value="324502000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1187,25 +1317,24 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4961915" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32752994" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15560392" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32752994" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15560392" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2339374" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1641791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1609808" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37976062" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37976062" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1213,6 +1342,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23612623" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1258,14 +1388,18 @@
     <MESSAGE value="判断点时候在闭合多边形内部的算法&#10;1. crossing number method&#10;2. winding number method (prefered)" />
     <MESSAGE value="多边形面积" />
     <MESSAGE value="点到平面的距离" />
-    <option name="LAST_COMMIT_MESSAGE" value="点到平面的距离" />
+    <MESSAGE value="添加集合、动态规划相关题目" />
+    <MESSAGE value="BoxStacking 解决方案" />
+    <MESSAGE value="BalancedPartition&#10;EditDistance" />
+    <MESSAGE value="图算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="图算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/nutshell/chapter6/GraphAlg.java</url>
-          <line>165</line>
+          <line>176</line>
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
@@ -1287,12 +1421,6 @@
           <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/gww/geeks/dp/LongestIncreasingSubsequence.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="28" />
     </breakpoint-manager>
@@ -1303,159 +1431,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol13/RopeCrisis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol13/DogGopher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol13/ChocolateChipCookies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol13/BirthdayCake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol13/LargestSmallestBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol13/IsThisIntegration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol13/HowBigIsIt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol14/ClosestPairProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="66" column="51" lean-forward="false" selection-start-line="66" selection-start-column="51" selection-end-line="66" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gww/geeks/geometry/AreaOfPolygons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/es/filtercache/BitDocIdSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/es/filtercache/RoaringDocIdSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/es/filtercache/Bits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/es/filtercache/IntArrayDocIdSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nutshell/geometry/GrometryAlg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-433">
-          <caret line="106" column="20" lean-forward="false" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol14/HerdingFrosh.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="50" column="13" lean-forward="false" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-          <folding>
-            <element signature="method#Point#0;class#Point#0;class#HerdingFrosh#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol14/ChainsawMassacre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="44" column="49" lean-forward="false" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol14/HotterColderTest.java" />
-    <entry file="file://$USER_HOME$/Desktop/2012012021331578.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol14/半平面交.md" />
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol14/TreesOnIsland.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="88" column="29" lean-forward="false" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gww/geeks/geometry/InclusionOfPointInPolygon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1408">
-          <caret line="64" column="62" lean-forward="false" selection-start-line="64" selection-start-column="62" selection-end-line="64" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol14/HotterColder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="821">
-          <caret line="72" column="16" lean-forward="false" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol14/TilePacker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="57" column="60" lean-forward="false" selection-start-line="57" selection-start-column="60" selection-end-line="57" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gww/geeks/geometry/PointToLineDistances.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1819">
-          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/gww/geeks/geometry/LinePlaneIntersection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1467">
@@ -1556,13 +1531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol11/Chopsticks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/es/filtercache/DocIdSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1166">
@@ -1616,9 +1584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
           <caret line="142" column="12" lean-forward="false" selection-start-line="142" selection-start-column="12" selection-end-line="142" selection-end-column="12" />
-          <folding>
-            <element signature="method#isReachable#0;class#AdventuresInMoving_IV#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1626,15 +1591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="17" column="60" lean-forward="false" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gww/geeks/dp/LongestIncreasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1642,14 +1598,204 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gww/geeks/dp/LongestIncreasingSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gww/geeks/dp/BoxStacking.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="594">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gww/geeks/dp/BuildingBridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gww/geeks/dp/BalancedPartition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gww/geeks/dp/EditDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gww/geeks/dp/CountingBooleanParenthesization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol11/Chopsticks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gww/geeks/graph/basics.java" />
+    <entry file="file://$PROJECT_DIR$/src/gww/geeks/dp/OptimalStrategyForAAGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nutshell/chapter4/Alg1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3597">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nutshell/chapter5/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nutshell/chapter5/RBTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gww/geeks/dp/IntegerKnapsack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="15" lean-forward="false" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol10/Freckles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol10/FireStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol10/TheNecklace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="68" column="25" lean-forward="false" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol10/Railroads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="27" column="90" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol10/War.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gww/geeks/graph/mst/Prime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="53" column="32" lean-forward="false" selection-start-line="52" selection-start-column="12" selection-end-line="53" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gww/geeks/graph/tarjan.java" />
+    <entry file="file://$PROJECT_DIR$/src/nutshell/chapter6/GraphAlg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="method#main#0;class#GraphAlg#0" expanded="false" />
+            <element signature="class#EdgeLable#0;class#GraphAlg#0" expanded="false" />
+            <element signature="class#Counter#0;class#GraphAlg#0" expanded="false" />
+            <element signature="e#1766#1767#0" expanded="true" />
+            <element signature="e#1812#1813#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pm/pc/vol10/TourisGuide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="52" column="11" lean-forward="false" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gww/geeks/graph/tarjan/Tarjan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Graph#0" expanded="false" />
+            <element signature="method#Graph#0;class#Graph#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gww/geeks/graph/tarjan/ArticulationPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gww/geeks/graph/tarjan/Bridges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gww/geeks/graph/tarjan/BiconnectedComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>

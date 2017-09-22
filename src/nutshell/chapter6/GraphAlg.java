@@ -22,6 +22,17 @@ public class GraphAlg {
         }
         private int color;
     }
+
+    /**
+     *
+     *                   A
+     *                /     \       Tree edge:     A -> B
+     *               B       C      Forward edge:  C -> H
+     *             /  \    /   \    Back edge:     E -> A
+     *            D   E   F    G    Cross edge:    F -> D
+     *                          \
+     *                           H
+     */
     enum EdgeType {
         Tree(0),
         Forward(1),
@@ -339,7 +350,7 @@ public class GraphAlg {
      * 基于并查集：O(E*logE)
      *
      */
-    public static void kruskal(WeightedGraph g, int pred) {
+    public static void kruskal(WeightedGraph g) {
         UnionSet unionSet = new UnionSet(g.vertexNum);
         LinkedList<WeightedGraph.Edge> edges = sortedEdges(g);
         for(WeightedGraph.Edge edge : edges) {
