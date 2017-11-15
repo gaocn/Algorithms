@@ -112,7 +112,7 @@ public class Alg101 {
 	/**
 	 * 将from block移到包含to的block上，并且将to上面的block、from上的block不变
 	 * @param from
-	 * @param on
+	 * @param to
 	 */
 	private void pileOver(int from, int to) {
 		int index = chain[blocks[from]].indexOf(from);
