@@ -59,8 +59,8 @@ lps表示模式的proper prefix(不包括字符串本身)也是该模式suffix(�
     lps[i]表示P[0..i]中longest prefix suffix的子串长度
     
              { len + 1    if P[len] = P[i] <------------------------------|
-    lps[i] = {                                                            |
-             {            else if len != 0 update len=lps[len-1], then recursive 
+             {                                                            |
+    lps[i] = {            else if len != 0 update len = lps[len-1], then recursive 
              {
              { len        else len = 0
              
@@ -101,7 +101,7 @@ lps表示模式的proper prefix(不包括字符串本身)也是该模式suffix(�
 
  - 模式自身的哈希值；
  - 要匹配字符串中所有长度为M的子串的哈希值；
- 
+
 #### 如何计算哈希值
 
 为了能够高效的计算字符串的哈希值，我们希望能够根据当前窗口中的子串的哈希值和下一窗口中新增的字符高效的计算出下一窗口中子串的哈希值，公式推导如下：
@@ -120,7 +120,7 @@ lps表示模式的proper prefix(不包括字符串本身)也是该模式suffix(�
        d: 字母表中字符的数目
        q: 一个素数
        h: d^(m-1)   
-``` 
+```
 
 #### 算法时间复杂度分析
 
@@ -267,6 +267,4 @@ PS：Aho-Corasick算法是实现Unix fgrep命令的基础。
   Go To:   通过所有pattern数组构建TTrie树，用g[][]表示该功能，g[i][c]表示当前状态i，字符为c的下一个的状态；
   Failure：若当前字符在Trie树中没有边存在，用f[]存放当前状态的下一个状态；
   Output:  存放所有单词中在当前状态结束的索引，用o[]存放所有匹配的单词索引构成的bitmap；
-  
-  
 ```
