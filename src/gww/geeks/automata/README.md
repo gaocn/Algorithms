@@ -18,9 +18,9 @@
 
 ###2、范例 基于FA（Finite Automata）的字符搜索
 
-问题：对于搜索模式$pat =  "ACACAGA"$，s如何构建状态机？
+问题：对于搜索模式pat =  "ACACAGA"，s如何构建状态机？
 
-搜索模式长度为M=7，则FA的状态数为M+1 = 8，构建状态机的关键是对于当前状态以及任何输入字符如何得到下一个状态？设给定任意字符为x，当前状态为k，那么下一个状态对应的字符串为$P  = "pat[0..k-1]x"?$（该字符串为搜索 模式的前k个字符与输入字符x构成），==方法是：找到$P?$的最长前缀 后缀的长度d，这个长度d就是下一个要跳转的状态== ，例如 ：$k = 5, x = 'C'?$，则$P = pat[0..4]x = "ACACAC"?$，则其最长前缀后缀字符串为"ACAC"，长度d=4，那么对于$k = 5, x = 'C'?$ ，下一个状态是4。下图是对于模式 pat="ACACAGA"的状态机和转换表:
+搜索模式长度为M=7，则FA的状态数为M+1 = 8，构建状态机的关键是对于当前状态以及任何输入字符如何得到下一个状态？设给定任意字符为x，当前状态为k，那么下一个状态对应的字符串为P  = "pat[0..k-1]x"?（该字符串为搜索 模式的前k个字符与输入字符x构成），`方法是：找到P的最长前缀 后缀的长度d，这个长度d就是下一个要跳转的状态` ，例如 ：k = 5, x = 'C'，则?P = pat[0..4]x = "ACACAC"?，则其最长前缀后缀字符串为"ACAC"，长度d=4，那么对于k = 5, x = 'C' ，下一个状态是4。下图是对于模式 pat="ACACAGA"的状态机和转换表:
 
 ```mermaid
 
@@ -388,12 +388,14 @@ $$Theorem： \qquad a^nb^n \qquad is \qquad  not \qquad  regular \\ Proof： \qqua
 
 例如2：L = {所有ab出现次数与`ba`出现次数相同的字符串}，L也不是Regular，因为有限自动机没有足够多的状态记录ab出现的次数。
 
-
-
 >MORAL: 
 >
 >1. Finite automata can’t count.
 >2. There is a unique smallest automaton for any regular language.
+
+##范例：AhoCorasick自动机实现多模式匹配
+
+
 
 
 
